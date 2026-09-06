@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2NGQwOTUxZi1jYmQ4LTQ4MTEtOGFhNC0yMTkxYmViZGM5ZDEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOPpojxiZ+beJXIkjrxPKs8AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozMmFjNmMxNy1mMDNjLTRkODctYTE5MS04NDRkYjdjMGMwZjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoZ3CZD5DpAjPtt/4wxfCHYwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggc1oa/WARnIMkxue+QZd3BKa89Qh6fVp87ABMmYMl0RakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMLOnhM0iNOmp6hO3tiRa0IAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBaKJgvqQkDrrixzkcVUb7vP5OxPigShmSHqwTaUuVhf2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjJZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY0ZDA5NTFmLWNiZDgtNDgxMS04YWE0LTIxOTFiZWJkYzlkMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU1YzBjMjkxLTI5NWYtNDMzYi04M2FlLWZhZTJiOTQ1OTRhM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBzWhr9YBGcgyTG575Bl3cEprz1CHp9WnzsAEyZgyXRFqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggJOxYQfwzR0E/9fthDJkvqJ0rHrZGcQU7WSDOHEgpKxuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggAiqQO6jLzzabctm9wI+Z8iSOE7qtbFAosKN4BfnyqyB0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQD+pCWuvlR+NXTEML7sBqbPGp6oqdFx13Ux4my53CFCgg9NcX+YPb5v4AarO1bTb5Gqz8w9WlwmbZ52tqra18WQ=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12002b"/>
+      <stop offset="100%" stop-color="#0a0014"/>
+    </linearGradient>
+
+    <filter id="glowMagenta" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowCyan" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowAmber" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowBorder" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- outer glow border, pulses forever, independent of the story timeline -->
+  <rect x="20" y="20" width="860" height="360" rx="14" fill="none"
+        stroke="#ff2bd6" stroke-width="2.5" filter="url(#glowBorder)" opacity="0.55">
+    <animate attributeName="opacity" values="0.35;0.75;0.35" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- terminal window -->
+  <rect x="20" y="20" width="860" height="360" rx="14" fill="url(#bgGrad)" stroke="#ff2bd6" stroke-width="1.4"/>
+
+  <!-- title bar -->
+  <rect x="20" y="20" width="860" height="34" rx="14" fill="#160026"/>
+  <rect x="20" y="40" width="860" height="14" fill="#160026"/>
+  <circle cx="42" cy="37" r="6" fill="#ff5f56"/>
+  <circle cx="62" cy="37" r="6" fill="#ffbd2e"/>
+  <circle cx="82" cy="37" r="6" fill="#27c93f"/>
+  <text x="450" y="42" text-anchor="middle" fill="#6f6f8a" font-size="13">arooba@postgres — psql</text>
+
+  <!-- ================= STORY CONTENT (14s loop, everything shares dur/begin so it stays in sync) ================= -->
+  <g fill="#e8e8f0" font-size="15">
+
+    <!-- prompt 1 -->
+    <text x="45" y="90" fill="#7b2ff7">arooba@db</text>
+    <text x="140" y="90" fill="#6f6f8a">:~$</text>
+
+    <!-- typed query line 1, revealed via animated clip -->
+    <g clip-path="url(#clipQ1)">
+      <text x="175" y="90" fill="#e8e8f0">EXPLAIN ANALYZE SELECT * FROM order_items</text>
+    </g>
+    <clipPath id="clipQ1">
+      <rect x="175" y="76" height="20" width="0">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite"
+          keyTimes="0;0.007;0.093;0.893;0.936;1"
+          values="0;0;390;390;0;0"/>
+      </rect>
+    </clipPath>
+
+    <!-- typed query line 1b -->
+    <g clip-path="url(#clipQ1b)">
+      <text x="60" y="114" fill="#e8e8f0">WHERE order_id = 50000;</text>
+    </g>
+    <clipPath id="clipQ1b">
+      <rect x="60" y="100" height="20" width="0">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite"
+          keyTimes="0;0.100;0.150;0.893;0.936;1"
+          values="0;0;250;250;0;0"/>
+      </rect>
+    </clipPath>
+
+    <!-- result: before index -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.171;0.200;0.893;0.936;1"
+        values="0;0;1;1;0;0"/>
+      <text x="45" y="150" fill="#ffb347">→ Parallel Seq Scan on order_items  (500,000 rows)</text>
+    </g>
+
+    <g opacity="0" filter="url(#glowAmber)">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.214;0.243;0.893;0.936;1"
+        values="0;0;1;1;0;0"/>
+      <text x="45" y="174" fill="#ff6a5f">Execution Time: 49.253 ms   🐌</text>
+    </g>
+
+    <!-- cyan sweep bar = "building the index" -->
+    <rect x="45" y="192" width="0" height="4" rx="2" fill="#00fff5" filter="url(#glowCyan)" opacity="0">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.328;0.335;0.385;0.90;0.936;1"
+        values="0;0;1;1;1;0;0"/>
+      <animate attributeName="width" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.328;0.385;1"
+        values="0;0;790;790"/>
+    </rect>
+
+    <!-- prompt 2: create index -->
+    <g opacity="0">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.398;0.401;0.893;0.936;1"
+        values="0;0;1;1;0;0"/>
+      <text x="45" y="222" fill="#7b2ff7">arooba@db</text>
+      <text x="140" y="222" fill="#6f6f8a">:~$</text>
+    </g>
+    <g clip-path="url(#clipQ2)">
+      <text x="175" y="222" fill="#e8e8f0">CREATE INDEX idx_order_items_order_id;</text>
+    </g>
+    <clipPath id="clipQ2">
+      <rect x="175" y="208" height="20" width="0">
+        <animate attributeName="width" dur="14s" repeatCount="indefinite"
+          keyTimes="0;0.400;0.443;0.893;0.936;1"
+          values="0;0;360;360;0;0"/>
+      </rect>
+    </clipPath>
+
+    <!-- result: after index -->
+    <g opacity="0" filter="url(#glowCyan)">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.450;0.479;0.893;0.936;1"
+        values="0;0;1;1;0;0"/>
+      <text x="45" y="258" fill="#00fff5">→ Index Scan using idx_order_items_order_id</text>
+    </g>
+
+    <g opacity="0" filter="url(#glowMagenta)">
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.500;0.529;0.893;0.936;1"
+        values="0;0;1;1;0;0"/>
+      <text x="45" y="282" fill="#ff2bd6">Execution Time: 0.155 ms   ⚡</text>
+    </g>
+
+  </g>
+
+  <!-- badge: 317x faster -->
+  <g opacity="0" transform="translate(45,310)">
+    <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+      keyTimes="0;0.550;0.593;0.893;0.936;1"
+      values="0;0;1;1;0;0"/>
+    <rect x="0" y="0" width="190" height="40" rx="20" fill="#160026" stroke="#ff2bd6" stroke-width="1.5" filter="url(#glowMagenta)">
+      <animate attributeName="stroke" dur="1.4s" repeatCount="indefinite"
+        values="#ff2bd6;#00fff5;#ff2bd6"/>
+    </rect>
+    <text x="95" y="26" text-anchor="middle" font-size="16" font-weight="bold" fill="#e8e8f0">⚡ ~317x faster</text>
+  </g>
+
+  <!-- blinking cursor, only visible during the two "typing" phases -->
+  <g opacity="0">
+    <animate attributeName="opacity" dur="14s" repeatCount="indefinite"
+      keyTimes="0;0.007;0.150;0.156;0.400;0.443;0.449;1"
+      values="0;1;1;0;0;1;0;0"/>
+    <rect width="9" height="18" fill="#00fff5">
+      <animate attributeName="opacity" dur="0.6s" repeatCount="indefinite" values="1;1;0;0"/>
+      <animate attributeName="x" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.007;0.007;0.093;0.100;0.100;0.150;0.150;0.400;0.400;0.443;0.443;1"
+        values="175;175;175;565;565;60;60;310;310;175;175;535;535"/>
+      <animate attributeName="y" dur="14s" repeatCount="indefinite"
+        keyTimes="0;0.006;0.093;0.099;0.150;0.399;0.443;1"
+        values="76;76;76;100;100;208;208;208"/>
+    </rect>
+  </g>
+</svg>
