@@ -59,7 +59,6 @@ I take messy tables and make them fast, honest, and occasionally beautiful. Curr
 A PostgreSQL e-commerce database and analytics system built to actually prove the fundamentals: relational design, SQL analytics, query optimization, indexing, and performance testing under real load. This is where the 317x number above came from, not a slide.
 
 <a href="https://github.com/Aroobs-i/E-Commerce_Database_And_Analytics_System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aroobs-i&repo=E-Commerce_Database_And_Analytics_System&theme=synthwave&hide_border=true&bg_color=0a0014" alt="E-Commerce Database and Analytics System repo card"/>
 </a>
 
 </div>
