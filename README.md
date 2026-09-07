@@ -23,7 +23,6 @@ I take messy tables and make them fast, honest, and occasionally beautiful. Curr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aroobs-i&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0014"  height="165"/>
-<img src="https://streak-stats.demolab.com?user=Aroobs-i&theme=highcontrast&hide_border=true&background=0A0014&ring=FF2BD6&fire=00FFF5" alt="Arooba's GitHub streak" height="165"/>
 
 </div>
 
