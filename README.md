@@ -22,8 +22,6 @@ I take messy tables and make them fast, honest, and occasionally beautiful. Curr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aroobs-i&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0014"  height="165"/>
-
 </div>
 
 > One query I'm proud of: turned a full 500k-row table scan into an indexed lookup, **49.253ms → 0.155ms**. Benchmarked query performance on a 100k-order dataset and optimized access to the foreign-key columns everyone actually filters on.
