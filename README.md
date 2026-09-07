@@ -20,9 +20,7 @@ I take messy tables and make them fast, honest, and occasionally beautiful. Curr
 
 ## 📊 The receipts
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Aroobs-i&theme=highcontrast&hide_border=true&background=0A0014&ring=FF2BD6&fire=00FFF5" alt="Arooba's GitHub streak" height="165"/>
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/Query_Speedup-317x_faster-ff2bd6?style=for-the-badge&labelColor=0a0014"/> <img src="https://img.shields.io/badge/Execution_Time-49.253ms_→_0.155ms-00fff5?style=for-the-badge&labelColor=0a0014"/> <br/> <img src="https://img.shields.io/badge/Rows_Scanned-500K-7b2ff7?style=for-the-badge&labelColor=0a0014"/> <img src="https://img.shields.io/badge/Dataset_Benchmarked-100K_orders-ffb347?style=for-the-badge&labelColor=0a0014"/> </p>
 
 > One query I'm proud of: turned a full 500k-row table scan into an indexed lookup, **49.253ms → 0.155ms**. Benchmarked query performance on a 100k-order dataset and optimized access to the foreign-key columns everyone actually filters on.
 
