@@ -80,7 +80,7 @@ A self-updating platform comparing Pakistan's data/analytics job market against 
 
 *% of each market's own postings mentioning the skill, normalized for fair comparison.*
 
-Pakistan side is a live scrape of Rozee.pk that grows daily (95 postings and counting as I write this — small on purpose, since it's fresh data updating in real time, not a one-time dump). Global side is a 1.3M-row Kaggle LinkedIn dataset, filtered down to ~12,900 postings that are actually data/analytics roles, used as a benchmark rather than a Pakistan source.
+Pakistan side is a live scrape of Rozee.pk that grows daily (120 postings and counting as I write this — small on purpose, since it's fresh data updating in real time, not a one-time dump). Global side is a 1.3M-row Kaggle LinkedIn dataset, filtered down to ~12,900 postings that are actually data/analytics roles, used as a benchmark rather than a Pakistan source.
 
 Built the whole pipeline myself: a Selenium scraper that survives a JS-rendered site and rate limiting, a normalized PostgreSQL schema hosted on Neon, SQL analysis with window functions and self-joins, two ML models, and a dashboard that redeploys itself with zero manual steps every day.
 
